@@ -1,6 +1,6 @@
 # vuex-tutorial
 
->  A Vuex tutorial
+>  Vuex Tutorial from The Net Ninja Youtube Channel
 
 ## Build Setup
 
